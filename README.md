@@ -1,4 +1,4 @@
-# HR Analytics Dashboard - Power BI
+# HR Analytics Dashboard - Power BI.
 Interactive HR dashboard in Power BI to track employee presence, WFH, and sick leave trends for better workforce insights.
 
 ![HR Dashboard](https://github.com/Sheikh-Anas-Tauseef/HR-Data-Analysis-Project/blob/main/image.JPG?raw=true)
